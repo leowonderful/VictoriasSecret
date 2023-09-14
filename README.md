@@ -2,7 +2,7 @@
 This is an extremely rudimentary monitor for a single product on Victoria's Secret. Unlike most of my other monitors, this one has been designed as standalone.
 
 # Requirements
-Simply install requirements in requirements.txt.
+Simply install requirements in `requirements.txt.`
 <p><strong>Please note Selenium is required (specifically, with Chrome)</strong> as there is dynamically loaded HTML due to JavaScript on the site.</p>
 I plan on releasing a version of this monitor using only requests (XHR) in the near future.
 
