@@ -1,5 +1,5 @@
 # VictoriasSecret
-This is an extremely rudimentary monitor for a single product on Victoria's Secret. Unlike most of my other monitors, this one has been designed as standalone. The product being monitored is https://www.victoriassecret.com/us/pink/accessories-catalog/5000008137.
+This is an extremely rudimentary monitor for a single product on Victoria's Secret. Unlike most of my other monitors, this one has been designed as standalone. The product being monitored is https://www.victoriassecret.com/us/pink/accessories-catalog/5000008137, specifically the beige colorway (out of stock as of 9/15/23).
 
 # Requirements
 Simply install requirements in `requirements.txt.`
