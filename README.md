@@ -1,5 +1,5 @@
 # VictoriasSecret
-This is an extremely rudimentary monitor for a single product on Victoria's Secret. Unlike most of my other monitors, this one has been designed as standalone.
+This is an extremely rudimentary monitor for a single product on Victoria's Secret. Unlike most of my other monitors, this one has been designed as standalone. The product being monitored is https://www.victoriassecret.com/us/pink/accessories-catalog/5000008137.
 
 # Requirements
 Simply install requirements in `requirements.txt.`
